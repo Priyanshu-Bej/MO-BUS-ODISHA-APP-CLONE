@@ -1,16 +1,16 @@
-# mo_bus_app
-//THIS IS A OLD MO BUS APP CLONE
-A new Flutter project.
+# MO Bus App Clone
+
+This is a clone of the old MO Bus app, created as a new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Resources
+
+Here are a few resources to help you get started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For additional help with Flutter development, check out the [online documentation](https://docs.flutter.dev/). It offers tutorials, samples, guidance on mobile development, and a full API reference.
